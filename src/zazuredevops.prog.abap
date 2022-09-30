@@ -6,3 +6,5 @@
 REPORT ZAZUREDEVOPS.
 
  write 'hello'.
+
+STATICS: lv_data TYPE string.
